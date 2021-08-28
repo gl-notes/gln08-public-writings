@@ -41,6 +41,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `Bt-008-2104` [2021.04 BSV 开发技术与工具概览 (v2)](https://gulu-dev.com/post/2021/2021-04-29-bsv-tech-and-tool-v2/) ([公众号](https://mp.weixin.qq.com/s/mFw-lsIw0MoRw4MuSTW_5Q), [知乎专栏](https://zhuanlan.zhihu.com/p/369109930))
 - `Bt-009-2105` [2021.05 感应合约的简介和基本原理](https://gulu-dev.com/post/2021/2021-05-01-sensible-intro/) ([公众号](https://mp.weixin.qq.com/s/ZnAZUNjRhInSXy5iqKgUbA), [知乎专栏](https://zhuanlan.zhihu.com/p/369662070))
 - `Bt-010-2106` :heart: [2021.06 Joshua 对感应合约的采访](https://gulu-dev.com/post/2021/2021-06-07-sensible-interview-by-joshua) ([公众号](https://mp.weixin.qq.com/s/7hh8c40abEK1akwGmEe01w), [知乎专栏](https://zhuanlan.zhihu.com/p/378699539))
+- `Bt-011-2107` :heart: [2021.07 随机漫步 · 零知识证明](https://gulu-dev.com/post/2021/2021-07-04-zero-knowledge-proofs)
 
 #### 区块链游戏 (`Bg` blockchain-game) 
 
@@ -70,6 +71,9 @@ This repository contains all categorized public writings created by Gu Lu for fu
 #### 游戏开发 (`Dm` dev-metaverse) 元宇宙相关
 
 - `Dm-001-2106` [Metaverse 101 (1/n) 程序化宇宙生成](https://gulu-dev.com/post/2021/2021-06-18-mv-procedural-universe-generation)
+- `Dm-002-2106` [Metaverse 101 (2/n) Roblox Claus Moberg 访谈简短记录](https://gulu-dev.com/post/2021/2021-06-28-roblox-claus-interview)
+- `Dm-003-2106` [Metaverse 101 (3/n) Dark Forest - 基于零知识证明与区块链的元宇宙构建](https://gulu-dev.com/post/2021/2021-06-29-dark-forest)
+- `Dm-004-2108` [Metaverse 101 (4/n) An intro of metaverse](https://gulu-dev.com/post/2021/2021-08-28-metaverse)
 
 ### **`L系列`** 系统性学习相关
 
@@ -81,6 +85,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `E-001-2011` [《乔丹传奇》 (段旭) 阅读笔记](https://gulu-dev.com/post/2020/2020-11-06-michael-jordan/)
 - `E-002-2011` [抓住机会](https://gulu-dev.com/post/2020/2020-11-14-grasp-the-opportunities/)
 - `E-003-2004` [2020.04 Wolfram 万物理论的简要解释](https://gulu-dev.com/post/2020/2020-04-23-wolfram-fundamental-theory)
+- `E-004-2107` [2021.07 坚韧，易检和渐进故障 - 向航空行业学习健壮性](https://gulu-dev.com/post/2021/2021-07-18-aero-robustness)
 
 ### **`C系列`** 文化相关
 
